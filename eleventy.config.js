@@ -15,6 +15,7 @@ const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets/fonts": "assets/fonts", "src/assets/css": "assets/css", "src/assets/js": "assets/js", "src/assets/img": "assets/img" });
   eleventyConfig.addPassthroughCopy({ "src/_headers": "_headers", "src/_redirects": "_redirects" });
+  eleventyConfig.addPassthroughCopy("src/googleb2cc0fda1806178f.html");
   eleventyConfig.addPassthroughCopy("src/media/**/*.{jpg,jpeg,png,webp,avif,gif,svg}");
   eleventyConfig.addWatchTarget("src/assets/");
 
