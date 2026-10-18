@@ -1,0 +1,27 @@
+{
+  "key": "masif",
+  "name_en": "Beit El Masif",
+  "theme_color": "#123A40",
+  "logo": {
+    "ar": [
+      561,
+      132
+    ],
+    "ar-dark": [
+      561,
+      132
+    ],
+    "en": [
+      468,
+      132
+    ],
+    "en-dark": [
+      468,
+      132
+    ]
+  },
+  "preload": [
+    "cairo-arabic-400-normal.woff2",
+    "lalezar-arabic-400-normal.woff2"
+  ]
+}

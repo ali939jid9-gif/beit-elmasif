@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "name": "Buying a Chalet",
+      "slug": "buying",
+      "nav": "Buying",
+      "description": "The steps of buying a chalet or coastal unit, the total cost, and handover.",
+      "intro": "The steps of buying a chalet or coastal unit, the total cost, and handover.",
+      "cta": "Do you need help choosing the right chalet?",
+      "icon": "KEY",
+      "in_menu": true
+    },
+    {
+      "name": "Installments and Financing",
+      "slug": "financing",
+      "nav": "Installments",
+      "description": "Payment plans for holiday units, and how to compare them.",
+      "intro": "Payment plans for holiday units, and how to compare them.",
+      "cta": "Do you want to know which payment plan suits you?",
+      "icon": "COINS",
+      "in_menu": true
+    },
+    {
+      "name": "Return and Renting",
+      "slug": "returns",
+      "nav": "Return",
+      "description": "Calculating a chalet's return, and renting in and out of season.",
+      "intro": "Calculating a chalet's return, and renting in and out of season.",
+      "cta": "Do you want your return calculation reviewed before you decide?",
+      "icon": "CHART",
+      "in_menu": true
+    },
+    {
+      "name": "Maintenance and Management",
+      "slug": "maintenance",
+      "nav": "Maintenance",
+      "description": "Maintenance fees, the deposit, and managing the unit all year.",
+      "intro": "Maintenance fees, the deposit, and managing the unit all year.",
+      "cta": "Do you want to know the yearly costs of a specific unit?",
+      "icon": "HOMES",
+      "in_menu": true
+    },
+    {
+      "name": "Resale",
+      "slug": "resale",
+      "nav": "Resale",
+      "description": "When to sell your holiday unit, and what affects its price.",
+      "intro": "When to sell your holiday unit, and what affects its price.",
+      "cta": "Thinking of selling your unit or buying a resale unit?",
+      "icon": "TAG",
+      "in_menu": true
+    },
+    {
+      "name": "General Articles",
+      "slug": "articles",
+      "nav": "General Articles",
+      "description": "Articles and advice about holiday homes that do not belong to one category.",
+      "intro": "Articles and advice about holiday homes that do not belong to one category.",
+      "cta": "Do you have a real estate question?",
+      "icon": "DOC",
+      "in_menu": false
+    }
+  ]
+}
